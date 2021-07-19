@@ -1,4 +1,4 @@
-* check if image rabbitmq already exists?
+* check if image `rabbitmq` already exists?
 ```
 docker image ls
 ```
@@ -46,6 +46,11 @@ node receive.js
 ```
 node send.js Your message goes here
 ```
+
+![image](https://user-images.githubusercontent.com/31872453/126227082-d4935cce-5501-4c44-a2ad-8e9f5639c8b8.png)
+
+
+
 
 * to start container `rabbitmq`
 ```
